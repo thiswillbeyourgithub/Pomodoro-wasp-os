@@ -52,4 +52,4 @@ LGPL-3.0-or-later
 
 ## Credits
 
-Originally forked from timer.py by github user thiswillbeyourgithub
+Originally forked from timer.py by github user thiswillbeyourgithub. This app has been merged into wasp-os via [PR #418](https://github.com/wasp-os/wasp-os/pull/418/files).
