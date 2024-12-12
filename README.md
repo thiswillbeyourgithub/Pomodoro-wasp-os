@@ -1,6 +1,6 @@
 # Wasp-OS Pomodoro App
 
-A customizable Pomodoro timer application for wasp-os running on PineTime smartwatches.
+A customizable Pomodoro timer application for [wasp-os](https://github.com/wasp-os/wasp-os) running on [PineTime](https://pine64.org/devices/pinetime/) smartwatches.
 
 ## Features
 
