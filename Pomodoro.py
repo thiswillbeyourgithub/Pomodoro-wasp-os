@@ -1,5 +1,5 @@
-# SPDX-License-Identifier: LGPL-3.0-or-later
-# Copyright (C) 2022 github user thiswillbeyourgithub
+# SPDX-License-Identifier: AGPL-3.0-or-later
+# Copyright (C) 2025 github user thiswillbeyourgithub
 """Pomodoro Application
 ~~~~~~~~~~~~~~~~~~~~~~~
 
